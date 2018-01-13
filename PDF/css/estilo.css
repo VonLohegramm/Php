@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+}
+
+
+div{
+    text-align: justify;
+    font-size: 13pt;
+}
+div.a{
+    border: solid;
+}
